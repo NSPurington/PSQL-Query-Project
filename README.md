@@ -8,8 +8,8 @@ Python 2.7
 
 # INSTALLING/RUNNING
 
-1. Install Python 2.7
-2. Install PostgreSQL
+1. Install Python 2.7 - (pip install python)
+2. Install PostgreSQL - (pip install postgresql)
 2. Clone newsdatadb.py
 3. Type "python newsdatadb.py" on command line
 
