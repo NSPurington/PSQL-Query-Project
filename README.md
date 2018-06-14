@@ -19,6 +19,6 @@ This project was coded in Python, and sends queries to a PostgreSQL database tab
 
 # ACKNOWLEDGEMENTS
 
-Udacity - For instructional assistance
+Udacity - For instructional coaching
 
 Author - Nick Purington - Udacity student/Aspiring Web Developer
