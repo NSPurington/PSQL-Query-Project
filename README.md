@@ -1,5 +1,5 @@
 # PSQL-Query-Project
-PSQL Query using a UNIX virtual machine
+PSQL Query using a LINUX virtual machine
 
 # PREREQUISITES
 
